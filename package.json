@@ -27,7 +27,7 @@
     "npm": "6.12.1"
   },
   "scripts": {
-    "start": "node server.js",
+    "start": "node start server.js",
     "build": "npm run lint && ng build",
     "test": "ng test",
     "lint": "tslint --project .",
